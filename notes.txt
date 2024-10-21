@@ -1,0 +1,3 @@
+conda env list                  check conda env 
+git fetch origin                fetch latest changes
+git pull origin main            pull the changes to local main 
