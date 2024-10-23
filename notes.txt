@@ -1,3 +1,7 @@
-conda env list                  check conda env 
-git fetch origin                fetch latest changes
-git pull origin main            pull the changes to local main 
+conda env list                                      check conda env 
+git fetch origin                                    fetch latest changes
+git pull origin main                                pull the changes to local main 
+
+npm create vite@latest ./ -- --template react       create the react frame for project
+npm install
+npm run dev
